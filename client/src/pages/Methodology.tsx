@@ -1,0 +1,6 @@
+import { ArrowRight, ShieldCheck, Waypoints } from "lucide-react";
+import { Link } from "wouter";
+
+export default function Methodology() {
+  return <main className="page-shell"><section className="page-hero"><div className="shell"><p className="eyebrow eyebrow-accent">Methodology</p><h1>Read the failure path.</h1><p className="page-hero-lede">DurablFi assesses yield by asking where it comes from, what it depends on, and what could interrupt it. The public methodology stays high-level; internal worksheets remain private.</p></div></section><section className="section"><div className="shell methodology-grid"><article><ShieldCheck size={20} /><h2>Risk before return</h2><p>Each scorecard considers protocol, dependency, liquidity, governance, security history, and the durability of the mechanism behind the displayed yield.</p></article><article><Waypoints size={20} /><h2>Evidence over theatre</h2><p>Research records distinguish observed yield from promises and explain the conditions that need to remain true for the position to work.</p></article></div></section><section className="section section-tight"><div className="shell"><Link href="/scorecards" className="button button-secondary">Read the scorecards <ArrowRight size={16} /></Link></div></section></main>;
+}
