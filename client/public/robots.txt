@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /404
+
+Sitemap: https://3000-idaii2k9jko2fo7bp9p2d-5308ff07.us4.manus.computer/sitemap.xml
