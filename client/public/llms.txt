@@ -1,0 +1,20 @@
+# DurablFi
+
+> Independent DeFi risk and yield research.
+
+DurablFi publishes hand-written scorecards that explain yield sources, failure paths, dependencies, and plain-English verdicts. The research is educational and is not financial advice.
+
+## Public sections
+
+- [Homepage](https://3000-idaii2k9jko2fo7bp9p2d-5308ff07.us4.manus.computer/): DurablFi overview and latest scorecard previews.
+- [Free Scorecards](https://3000-idaii2k9jko2fo7bp9p2d-5308ff07.us4.manus.computer/scorecards): Browse current published records.
+- [Scorecard Library](https://3000-idaii2k9jko2fo7bp9p2d-5308ff07.us4.manus.computer/archive): Public library with filters and sorting.
+- [Articles](https://3000-idaii2k9jko2fo7bp9p2d-5308ff07.us4.manus.computer/articles): Separate independent editorial section; no articles are published yet.
+- [Methodology](https://3000-idaii2k9jko2fo7bp9p2d-5308ff07.us4.manus.computer/methodology): High-level explanation of the DurablFi risk approach.
+- [Privacy Policy](https://3000-idaii2k9jko2fo7bp9p2d-5308ff07.us4.manus.computer/privacy): Email capture, optional analytics, cookies, and privacy practices.
+
+## Current scorecards
+
+- [Aave V3 USDC](https://3000-idaii2k9jko2fo7bp9p2d-5308ff07.us4.manus.computer/scorecards/aave-v3-usdc)
+- [Lido stETH](https://3000-idaii2k9jko2fo7bp9p2d-5308ff07.us4.manus.computer/scorecards/lido-steth)
+- [Pendle PT-eETH](https://3000-idaii2k9jko2fo7bp9p2d-5308ff07.us4.manus.computer/scorecards/pendle-pt-eeth)
